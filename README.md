@@ -1,1 +1,2 @@
-# final_course_stepik27
+# stepik-finish-task
+Last module
